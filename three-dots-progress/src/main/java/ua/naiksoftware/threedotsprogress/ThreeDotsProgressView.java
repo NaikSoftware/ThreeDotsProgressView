@@ -15,7 +15,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by savchenko_n on 04.04.17.
+ * Created by naik on 04.04.17.
  */
 public class ThreeDotsProgressView extends View {
 
