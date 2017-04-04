@@ -2,7 +2,7 @@
 
 [![Release](https://jitpack.io/v/NaikSoftware/ThreeDotsProgressView.svg)](https://jitpack.io/#NaikSoftware/ThreeDotsProgressView)
 
-![screenshot](screen.gif)
+![screenshot](https://raw.githubusercontent.com/NaikSoftware/ThreeDotsProgressView/master/screen.gif)
 
 Add library as gradle dependency
 
