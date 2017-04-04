@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ThreeDotsProgressView">
+        <attr name="dotSizeNormal" format="dimension"/>
+        <attr name="dotSizeBig" format="dimension"/>
+        <attr name="dotColorNormal" format="color"/>
+        <attr name="dotColorBig" format="color" />
+        <attr name="dotSpeed" format="integer" />
+    </declare-styleable>
+</resources>

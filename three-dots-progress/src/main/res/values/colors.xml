@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_dot_color_normal">#BDBDBD</color>
+    <color name="default_dot_color_big">#009357</color>
+</resources>
